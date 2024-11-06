@@ -24,9 +24,9 @@
 | Code mnémonique | Désignation                     | Type          | Contraintes                          |
 |-----------------|---------------------------------|---------------|--------------------------------------|
 | product_id      | ID unique                       | INTEGER       | PRIMARY KEY, AUTO_INCREMENT          |
-| product_name    | Nom                             | VARCHAR(100)  | NOT NULL                             |
-| product_desc    | Description                     | TEXT          | NOT NULL                             |
-| product_price   | Prix                            | NUMERIC       | NOT NULL, CHECK (product_price > 0)  |
+| product_name    | Nom du produit                  | VARCHAR(100)  | NOT NULL                             |
+| product_desc    | Description du produit          | TEXT          | NOT NULL                             |
+| product_price   | Prix du produit                 | NUMERIC       | NOT NULL, CHECK (product_price > 0)  |
 | product_qty     | Quantité disponible en stock    | INTEGER       | NOT NULL                             |
 
 ## Visiteur
