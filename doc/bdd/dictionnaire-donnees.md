@@ -28,11 +28,3 @@
 | product_desc    | Description du produit          | TEXT          | NOT NULL                             |
 | product_price   | Prix du produit                 | NUMERIC       | NOT NULL, CHECK (product_price > 0)  |
 | product_qty     | Quantité disponible en stock    | INTEGER       | NOT NULL                             |
-
-## Visiteur
-
-| Code mnémonique     | Désignation                     | Type          | Contraintes                          |
-|---------------------|---------------------------------|---------------|--------------------------------------|
-| visitor_id          | Identifiant unique              | INTEGER       | PRIMARY KEY, AUTO_INCREMENT          |
-| visitor_username    | Pseudonyme                      | VARCHAR(50)   | NOT NULL, UNIQUE                     |
-| visitor_password    | Mot de passe                    | VARCHAR(255)  | NOT NULL                             |
