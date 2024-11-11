@@ -2,7 +2,7 @@
 
 ## Introduction
 
-La protection de vos données personnelles est une priorité pour "LeBonDeal". Cette politique de protection des données décrit les types de données que nous collectons, comment nous les utilisons, les mesures que nous prenons pour les protéger, et les droits dont vous disposez en tant qu'utilisateur.
+Ce document décrit la politique de protection des données de "LeBonDeal" en conformité avec le Règlement Général sur la Protection des Données (RGPD). Il vise à informer les utilisateurs sur la manière dont leurs données personnelles sont collectées, utilisées, stockées et protégées.
 
 ## Responsable du Traitement des Données
 
