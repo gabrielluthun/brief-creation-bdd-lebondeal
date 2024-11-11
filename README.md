@@ -84,7 +84,7 @@ Vous pouvez consulter les détails des rôles et permissions dans le fichier [d�
 
 La politique de sauvegarde des données définit les procédures de sauvegarde, les responsabilités, les fréquences de sauvegarde, et les processus de restauration des données. 
 
-Vous pouvez consulter la politique complète dans le fichier [politique-de-sauvegarde.md](/doc/bdd/sauvegardes/politique-de-sauvegarde.md).
+Vous pouvez consulter la politique complète dans le fichier [dédié à la politique de sauvegarde](/doc/bdd/sauvegardes/politique-de-sauvegarde.md).
 
 ### Politique de Rétention
 
