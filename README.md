@@ -68,7 +68,9 @@ Vous pouvez consulter le dictionnaire de données complet dans le fichier [dicti
 
 ### Règles de Gestion
 
-Les règles de gestion définissent les contraintes et les relations entre les différentes entités de la base de données. 
+Les règles de gestion spécifient ce qu'un système d'information doit faire, ou comment il doit être stucturé.
+
+Dans notre cas, il s'agit de règles de gestion concernant les produits, les utilisateurs, et les commandes.
 
 Vous pouvez consulter les règles de gestion complètes dans le fichier [listant les règles de gestion](/doc/regles-gestion.md).
 
