@@ -7,22 +7,21 @@
 ## Table des Matières
 
 1. [Introduction](#introduction)
-2. [Structure du Projet](#structure-du-projet)
-3. [Conception de la Base de Données](#conception-de-la-base-de-données)
+2. [Conception de la Base de Données](#conception-de-la-base-de-données)
    - [Modèle Conceptuel de Données (MCD)](doc/bdd/MCD.png)
    - [Modèle Logique de Données (MLD)](doc/bdd/MLD.png)
    - [Dictionnaire de Données](#dictionnaire-de-données)
    - [Règles de Gestion](#règles-de-gestion)
    - [Rôles et permissions](#rôles-et-permissions)
-4. [Sécurité](#sécurité)
+3. [Sécurité](#sécurité)
    - [Politique de sauvegarde](#politique-de-sauvegarde)
    - [Politique de rétention](#politique-de-rétention)
    - [Politique de protection des données (RGPD)](#politique-de-protection-des-données-rgpd)
-5. [Choix Technologiques](#choix-technologiques)
+4. [Choix Technologiques](#choix-technologiques)
    - [Méthodologie MERISE](#méthodologie-merise)
    - [Pourquoi utiliser PostgreSQL ?](#pourquoi-utiliser-postgresql)
-6. [Benchmark : PostgreSQL vs MySQL](#benchmark--postgresql-vs-mysql-vs-sqlite)
-7. [Propositions d'Amélioration](#propositions-damélioration)
+5. [Benchmark : PostgreSQL vs MySQL](#benchmark--postgresql-vs-mysql-vs-sqlite)
+6. [Propositions d'Amélioration](#propositions-damélioration)
 
 ## Conception de la Base de Données
 
